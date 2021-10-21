@@ -1,0 +1,22 @@
+* {
+    color: rgb(10, 10, 10);
+    font-size: 25px;
+    height: 20%;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 400px;
+}
+
+input {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 10%;
+    font-size: 30px;
+}
